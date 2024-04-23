@@ -1,0 +1,11 @@
+{
+  "name": "HTML-CSS-VACCINATION",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/minhtri9623/HTML-CSS-Vaccination.git",
+  "author": "LAPTOP-PK8JHPSO\\ADMIN <linhnhi.2922@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
